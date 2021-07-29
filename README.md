@@ -1,6 +1,6 @@
 # Analog-Clock
-In this project I have designed an analog clock with 
- Markup : * Bullet list
+In this project I have designed an analog clock with
+Markup : * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
